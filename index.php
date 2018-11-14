@@ -1,4 +1,4 @@
 <?php
 
-echo 'working';
+include_once 'config.php';
 
